@@ -10,7 +10,7 @@ for(i=1;i<6;i++)
     avg=avg+a[i];
 }
 avg=avg/5;
-printf("%d",avg);
+printf("%.2f",avg);
 return 0;
 }
 
